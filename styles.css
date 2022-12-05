@@ -1,0 +1,25 @@
+*{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.text-primary{
+  border: none;
+  outline: none;
+  background-color: Transparent;
+}
+
+#hero1, #hero2, #hero3{
+  height: 55vh;
+}
+
+#hero3{
+  margin-bottom: 16px;
+}
+
+.p-5{
+  margin: 16px;
+}
+
+#help{
+  padding: .5rem;
+}
